@@ -29,7 +29,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_toRightOf="@id/button_toast"
-        android:background="#FFFF00"
+        android:background="#F3B807"
         android:gravity="center_vertical"
         android:text="@string/count_initial_value"
         android:textAlignment="center"
