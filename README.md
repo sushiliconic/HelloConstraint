@@ -1,6 +1,6 @@
 # Hello Toast
 ## Homework
-![](app/src/main/res/drawable/homework.gif)
+![](app/src/main/res/drawable/homeworkgif.gif)
 ### QUESTION 1
 Which two layout constraint attributes on the Zero Button position it vertically equal distance between the other two Button elements? (Pick 2 answers.)
 Answer: android:layout_marginBottom="8dp",android:layout_marginTop="8dp"
